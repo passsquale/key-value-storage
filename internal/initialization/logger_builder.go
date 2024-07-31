@@ -2,7 +2,7 @@ package initialization
 
 import (
 	"errors"
-	"github.com/evgeniy-roslyackov/key-value-storage/internal/configuration"
+	"github.com/passsquale/key-value-storage/internal/configuration"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

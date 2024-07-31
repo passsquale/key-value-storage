@@ -2,9 +2,9 @@ package initialization
 
 import (
 	"errors"
-	"github.com/evgeniy-roslyackov/key-value-storage/internal/configuration"
-	"github.com/evgeniy-roslyackov/key-value-storage/internal/database/storage/replication"
-	"github.com/evgeniy-roslyackov/key-value-storage/internal/network"
+	"github.com/passsquale/key-value-storage/internal/configuration"
+	"github.com/passsquale/key-value-storage/internal/database/storage/replication"
+	"github.com/passsquale/key-value-storage/internal/network"
 	"go.uber.org/zap"
 	"time"
 )

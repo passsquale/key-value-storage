@@ -1,4 +1,4 @@
-module github.com/evgeniy-roslyackov/key-value-storage
+module github.com/passsquale/key-value-storage
 
 go 1.22.5
 

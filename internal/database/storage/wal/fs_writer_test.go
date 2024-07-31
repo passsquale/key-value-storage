@@ -1,7 +1,7 @@
 package wal
 
 import (
-	"github.com/evgeniy-roslyackov/key-value-storage/internal/database/compute"
+	"github.com/passsquale/key-value-storage/internal/database/compute"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/zap"
 	"log"

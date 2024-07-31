@@ -1,6 +1,6 @@
 package wal
 
-import "github.com/evgeniy-roslyackov/key-value-storage/internal/tools"
+import "github.com/passsquale/key-value-storage/internal/tools"
 
 type LogData struct {
 	LSN       int64

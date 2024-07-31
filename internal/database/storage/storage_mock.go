@@ -7,8 +7,8 @@ package storage
 import (
 	context "context"
 	reflect "reflect"
-	wal "github.com/evgeniy-roslyackov/key-value-storage/internal/database/storage/wal"
-	tools "github.com/evgeniy-roslyackov/key-value-storage/internal/tools"
+	wal "github.com/passsquale/key-value-storage/internal/database/storage/wal"
+	tools "github.com/passsquale/key-value-storage/internal/tools"
 
 	gomock "github.com/golang/mock/gomock"
 )

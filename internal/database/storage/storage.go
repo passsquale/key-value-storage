@@ -3,9 +3,9 @@ package storage
 import (
 	"context"
 	"errors"
-	"github.com/evgeniy-roslyackov/key-value-storage/internal/database/compute"
-	"github.com/evgeniy-roslyackov/key-value-storage/internal/database/storage/wal"
-	"github.com/evgeniy-roslyackov/key-value-storage/internal/tools"
+	"github.com/passsquale/key-value-storage/internal/database/compute"
+	"github.com/passsquale/key-value-storage/internal/database/storage/wal"
+	"github.com/passsquale/key-value-storage/internal/tools"
 	"go.uber.org/zap"
 )
 

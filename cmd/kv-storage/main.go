@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	"github.com/evgeniy-roslyackov/key-value-storage/internal/configuration"
-	"github.com/evgeniy-roslyackov/key-value-storage/internal/initialization"
+	"github.com/passsquale/key-value-storage/internal/configuration"
+	"github.com/passsquale/key-value-storage/internal/initialization"
 	"log"
 	"os"
 	"os/signal"

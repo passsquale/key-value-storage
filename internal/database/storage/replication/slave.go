@@ -5,7 +5,7 @@ import (
 	"context"
 	"encoding/gob"
 	"errors"
-	"github.com/evgeniy-roslyackov/key-value-storage/internal/database/storage/wal"
+	"github.com/passsquale/key-value-storage/internal/database/storage/wal"
 	"go.uber.org/zap"
 	"time"
 )

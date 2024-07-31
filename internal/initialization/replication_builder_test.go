@@ -1,7 +1,7 @@
 package initialization
 
 import (
-	"github.com/evgeniy-roslyackov/key-value-storage/internal/configuration"
+	"github.com/passsquale/key-value-storage/internal/configuration"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/zap"
 	"testing"
